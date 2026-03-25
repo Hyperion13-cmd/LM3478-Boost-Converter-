@@ -1,6 +1,7 @@
 # LM3478 Boost Converter Hardware Design & Production
 
-![LM3478 Physical Board]([BURAYA ÜRETTİĞİN KARTIN FOTOĞRAFINI VEYA 3D RENDER'INI EKLE])
+<img width="611" height="548" alt="image" src="https://github.com/user-attachments/assets/d2bd60f8-94d2-411d-bd27-98298420f916" />
+
 
 ## 📌 Project Overview
 This project involves the complete hardware design, PCB layout, and physical prototyping of a boost (step-up) DC-DC converter using the Texas Instruments LM3478 High-Efficiency Low-Side N-Channel Controller. The primary goal of this project is to demonstrate end-to-end hardware engineering capabilities, from component selection and schematic capture to physical assembly and testing.
