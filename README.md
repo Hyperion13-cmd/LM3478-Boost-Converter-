@@ -1,6 +1,8 @@
 # LM3478 Boost Converter Hardware Design & Production
 
 <img width="611" height="548" alt="image" src="https://github.com/user-attachments/assets/d2bd60f8-94d2-411d-bd27-98298420f916" />
+![Uploading image.png…]()
+
 
 
 ## 📌 Project Overview
